@@ -21,7 +21,7 @@ public class Reno {
         System.out.println("Reno.volar");
 
         System.out.println("Reno volando");
-        return "mmmmmiiiiii chus chus";
+        return "mmmmmiiiiii chus chus peeeeerrrr";
     }
 
     /**
