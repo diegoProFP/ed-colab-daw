@@ -20,7 +20,7 @@ public class Reno {
     public String volar(String direccion){
         System.out.println("Reno.volar");
 
-        return "yuhuuuu uuu";
+        return "rrriiiii";
     }
 
     /**
