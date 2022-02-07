@@ -3,6 +3,8 @@ package com.polonorte;
 import java.util.List;
 
 /**
+ * <h1>Clase creada para 1DAW WEBAPP FACTORY</h1>
+ * <i>Todos los derechos reservados<i>. 
  * Clase que representa un <i>trineo de navidad</i>
  * @author Diego
  * @version 1.0
