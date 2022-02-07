@@ -1,6 +1,8 @@
 package com.polonorte;
 
 /**
+ * <h1>Clase creada para 1DAW WEBAPP FACTORY</h1>
+ * <i>Todos los derechos reservados<i>. 
  * Clase que representa un reno
  * @author Diego
  *
