@@ -6,5 +6,15 @@ public class clasecolor {
 		profesor teacher = new profesor();
 		String color = teacher.preguntacolor();
 		System.out.println("La respuesta recibida es:" + color);
+		System.out.println("Hola");
+		System.out.println("Hola");
+		System.out.println("Hola");
+		System.out.println("Hola");
+		System.out.println("Hola");
+		System.out.println("Hola");
+		System.out.println("Hola");
+		System.out.println("Hola");
+		System.out.println("Hola");
+		System.out.println("Hola");
 	} 
 }
